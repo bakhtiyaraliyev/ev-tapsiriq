@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+.page_wrapper{
+	background-color: gray;
+	
+
+}
+.title_wrapper{
+	background-color: black;
+	
+
+}
+.left_right{
+display: flex;
+
+}
+.title{
+	color: white;
+	text-align: center;
+
+
+}
+.left-side{
+	margin: 30px;
+
+}
+.name{
+	margin-bottom: 20px;
+
+}
+.content{
+	display:flex ;
+
+}
+img{
+width: 200px;
+height: 200px;
+
+}
+.text-wrapper{
+
+}
+.text{
+
+
+}
+.link{
+	color: red;
+}
+.right_side{
+	margin-top: 35px;
+
+}
+.contact_title{
+
+}
+ul{
+
+}
+li{
+
+}
